@@ -1,0 +1,50 @@
+body {
+    background-color: pink !important;
+}
+body {
+    margin: 0;
+    background-color: #ffffff;
+    color: #4a4a4a;
+    font-family: Arial, sans-serif;
+}
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.hero {
+    background-color: #fde6ec;
+}
+
+h1 {
+    font-size: 36px;
+    color: #f7b2c4;
+}
+
+h2 {
+    color: #f7b2c4;
+    margin-bottom: 16px;
+}
+
+p {
+    font-size: 15px;
+    line-height: 1.6;
+}
+.insta-btn {
+    margin-top: 20px;
+}
+
+.insta-btn a {
+    display: inline-block;
+    background-color: #f7b2c4;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 24px;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.insta-btn a:hover {
+    background-color: #f4a3b8;
+}
