@@ -48,3 +48,35 @@ p {
 .insta-btn a:hover {
     background-color: #f4a3b8;
 }
+.arrow-nav {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.arrow-nav a {
+    font-size: 28px;
+    text-decoration: none;
+    color: #f7b2c4;
+}.price-card {
+    background-color: #ffffff;
+    border: 1px solid #fde6ec;
+    border-radius: 18px;
+    padding: 16px;
+    margin: 16px auto;
+    max-width: 320px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.price-card h3 {
+    margin: 0;
+    font-size: 15px;
+    color: #f7b2c4;
+}
+
+.price-card span {
+    display: block;
+    margin-top: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #4a4a4a;
+}
